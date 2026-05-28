@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Sejahtera Mulia",
+  "description": "Website landing page modern, minimalis, dan profesional untuk Koperasi Sejahtera Mulia dengan ringkasan profil, jenis usaha, katalog produk, dan blog kegiatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
